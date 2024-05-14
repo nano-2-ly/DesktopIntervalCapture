@@ -16,6 +16,7 @@ def create_folder_if_not_exists(folder_path):
         print(f"폴더가 이미 존재합니다: {folder_path}")
 
 
+create_folder_if_not_exists(f"./images")
 while True:
     # 현재 시간을 파일 이름으로 사용하여 캡처 저장
     current_time = time.strftime("%Y-%m-%d___%H-%M-%S")
