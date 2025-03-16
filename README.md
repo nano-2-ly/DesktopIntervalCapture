@@ -3,6 +3,10 @@
 윈도우에서 IntervalCapture.bat 파일을 클릭하면 프로그램이 실행됩니다.
 개인 취향에 맞게 python 코드를 수정해서 쓰시면 됩니다.
 
+### 다운로드 방법
+![image](https://github.com/user-attachments/assets/666d459c-3f33-40d3-bb9d-a203fe4d0de7)
+"Download ZIP"을 눌러서 다운로드 할 수 있습니다.
+
 ### 실행하는 방법
 `IntervalCapture.bat`를 클릭하면 커맨드창이 뜹니다.
 이제 10분 간격으로 `./images` 폴더에 캡쳐가 저장됩니다.
